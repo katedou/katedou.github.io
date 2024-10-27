@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Beibei Dou"
-  avatar           : "/assets/images/bio.jpg"
+  avatar           : "/assets/images/bio.JPG"
   bio              : "Senior Data Scientist/Senior Machine Learning Engineer"
   location         : "Karlsruhe, Germany"
   email            :
