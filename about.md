@@ -25,14 +25,15 @@ permalink: /about_author/
 
 **Data Scientist/Senior Consultant**, IBM  
 *Sept. 2020 – Sept. 2023*  
-- Developed semi-automated model training pipelines using TensorFlow, enhancing efficiency for client projects.
-- Built NLP solutions for PDF information extraction, applying OCR, named entity recognition, and post-processing.
-- Led MLOps best practices in Azure, improving model performance, monitoring, and deployment workflows.
+- **MLOps and AI Optimization**: Led the development of MLOps best practice templates on Azure Cloud, streamlining AI workflows. Optimized AI and computer vision solutions, enhancing model performance and eﬃciency, and managed end-to-end model pipelines using AzureML and Docker.
+- **AI and NLP Solutions Development**: Enhanced computer vision models and built semi-automated model training pipelines using TensorFlow.Worked on NLP tasks, including PDF-based information extraction, leveraging techniques like OCR and post-processing with part-of-speech tagging and named entity recognition. Deployed inference containers with TensorFlow Serving
+and supported AI migration to Azure Cloud.
+- **Data Quality and Client Consulting**: Led a master data quality assessment project in SAP systems, translating business use cases into technical requirements. Provided technical leadership and supervised junior data scientists, ensuring successful project delivery.
+- **Quality Assurance Automation**: Assisted clients in automating quality assurance processes using deep learning, computer vision, and NLP techniques. Deployed neural network models in production, enhancing the eﬃciency and accuracy of client operations.
 
 **Associate Data Scientist/IoT Consultant**, IBM Watson Center  
 *July 2018 – Sept. 2020*  
-- Focused on computer vision projects, including automated visual inspection and predictive maintenance.
-- Implemented quality assurance automation for clients using deep learning and NLP.
+- Worked as a Junior Data Scientist at IBM Watson Center, focusing on computer vision and data analysis for various internal and external projects, including automated visual inspection systems and predictive maintenance solutions.
 
 ---
 
