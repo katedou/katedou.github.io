@@ -11,10 +11,11 @@ permalink: /about_author/
 *October 2023 – Present*  
 - Developed a system for encoding feedback data into vectors for efficient similarity retrieval, using prompt engineering to augment feedback analysis.
 - Implemented automated pipelines in Databricks, integrating RESTful APIs, Azure monitoring, and DevOps practices for seamless deployment.
-- Created a Retrieval-Augmented Generation (RAG) agent that leverages vehicle manuals to provide accurate customer feedback support.
+- Built a Retrieval-Augmented Generation (RAG) agent using vehicle manuals as a knowledge base, significantly enhancing customer feedback processes by providing accurate, AI-driven responses. This solution was deployed in US, improving overall customer support capabilities.
+- Led the migration of a large-scale Databricks instance to optimize costs and improve efficiency. Managed stakeholder onboarding and expectation alignment while establishing a community for better technical communication. Designed solution architecture, improved documentation, and streamlined project management. Ensured reliable infrastructure operation, supported developers, and drove technical improvements.
 
 ### Key Skills
-- **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-Learn, NLP
+- **Machine Learning & Deep Learning**: TensorFlow, PyTorch, Scikit-Learn, NLP, Computer Vision
 - **Data Engineering & MLOps**: Azure, Databricks, MLflow, Docker, FastAPI
 - **Programming**: Python, PySpark
 - **Cloud Platforms**: Azure
